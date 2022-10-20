@@ -1,5 +1,5 @@
 # hopenet_colab
-colab file to test hopenet for head pose estimation using mtcnn for face detection
+colab file to test hopenet (author = {Ruiz, Nataniel and Chong, Eunji and Rehg, James M.}) for head pose estimation using mtcnn for face detection
 
 
 
