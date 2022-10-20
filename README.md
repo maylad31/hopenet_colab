@@ -5,3 +5,8 @@ colab file to test hopenet (author = {Ruiz, Nataniel and Chong, Eunji and Rehg, 
 
 ![alt text](https://github.com/maylad31/hopenet_colab/blob/main/r.png?raw=true)
 ![alt text](https://github.com/maylad31/hopenet_colab/blob/main/r1.png?raw=true)
+
+
+
+link to the original repo:
+https://github.com/natanielruiz/deep-head-pose
